@@ -10,6 +10,8 @@
 class BeeChatApp
 {
 private:
+    
+    // Hi
   
   LachlansUIThing* ui
   
